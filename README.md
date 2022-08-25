@@ -1,3 +1,3 @@
 # Data-Driven-Testing-Framework
-1) Ddt - Is jar file which showcases the example of DATA DRIVER TESTING WITH Data1.xlsx file 
-2) Ddt2 - Is jar file which showcases the example of DATA DRIVER TESTING WITH Data2.xlsx file 
+1) ReadingExcelFile - Example of how to read data from file and showcases the example of DATA DRIVER TESTING WITH Data1.xlsx file 
+2) ReadingExcelFile2 - Example of how to read data from Excel file and showcases the example of DATA DRIVER TESTING WITH Data2.xlsx file 
